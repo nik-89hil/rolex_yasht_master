@@ -1,0 +1,132 @@
+.navt{
+    background-color:black;
+    margin:0px;
+    padding-top:30px ;
+    padding-bottom: 60px;
+    text-align: right;
+    border-bottom: 2px solid black;
+}
+.navt:hover{
+    
+    background-color: white;
+}
+.navt a{
+    color: darkgray;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 20px;
+}
+.content{
+    background-image: url('https://wallpaperaccess.com/full/810159.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom left;
+    width: 100%;
+    height: 700px;
+    margin-top: 0px;
+
+}
+.proback{
+    border: 5px white solid;
+    border-radius: 10px;
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin:0 40px;
+    text-align: center;
+    
+}
+h2{
+    font-size: 35px;
+    color:white;
+    font-weight: 600;
+    text-align: center;
+}
+h5{
+    font-size: 16px;
+    color:white;
+    font-weight: 100;
+    text-align: center;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.abrol{
+    background-color: lightgray;
+    height: 400px;
+    margin-top: 0px;
+    margin-left:50px;
+    margin-right: 50px;
+}
+h1{
+    border: 5px solid white;
+    padding-top:40px;
+    padding-bottom: 40px;
+    padding-left: 120px;
+    padding-right:50px;
+    color: white;
+    font-size: 50px;
+    font-style: sans-serif;
+    font-weight: 900;
+    text-align: center;
+    
+}
+p{
+    color: black;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 900;
+    padding-top: 23px;
+    padding-left: 120px;
+    padding-right:50px;
+    
+    
+}
+.button a{
+    color:darkgreen;
+    font-size: 20px;
+    font-weight: 500;
+    border: 2px solid darkgreen;
+    border-radius: 40px;
+    display: inline-block;
+    margin: 40px;
+    padding: 14px;
+    
+    text-decoration: none;
+}
+.button{
+    text-align: center;
+}
+.button a:hover{
+    color: white;
+    background-color: darkgreen;
+}
+.yacht{
+    background-color: black;
+}
+.yacht,p{
+    color: white;
+}
+h4{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.dutton a{
+    color:white;
+    font-size: 25px;
+    font-weight: 500;
+    border: 2px solid white;
+    border-radius: 40px;
+    display: inline-block;
+    margin: 40px;
+    padding: 14px;
+  
+    
+    text-decoration: none;
+}
+.dutton a:hover{
+    color:black;
+    background-color:white;
+
+}
+   
